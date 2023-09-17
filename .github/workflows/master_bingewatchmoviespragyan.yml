@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'bingeWatchMoviesPragyan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D809A0FD06E496EA9256DA28542ACF3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67EAEC5AE6DC45178F89D32AC671FC4A }}
           package: .
